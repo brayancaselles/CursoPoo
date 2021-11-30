@@ -1,1 +1,1 @@
-# CursoPoo
+# CursoPoo de Platzi
